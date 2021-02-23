@@ -13,7 +13,7 @@ I am a creative type who loves a good puzzle
 
 ## Experience
 
-**Snyk.io, London** (Jan 2017 to May 2020)  
+**Snyk.io, London (Jan 2017 to May 2020)**  
 **People Operations Lead**
 <br>
 <br>
@@ -26,7 +26,7 @@ My role at Synk began in 2017 as a founding memeber of the People Team, supporti
 During the scaling of both the company and People Team, I focused my skills to be more systems based, by further establishing our HRIS and project leading the company's new employee onboarding workflows. This naturally lead to me, from 2019, leading People Operations where I owned employee data integrity, reporting and automation from within our HRIS; working closely with the legal, IT and engineering teams.
 <br>
 <br>
-**Oliver Bonas, London** (July 2015 to Dec 2016)  
+**Oliver Bonas, London(July 2015 to Dec 2016)**  
 **Supervisor/Assistant Manager**
 <br>
 <br>
@@ -35,7 +35,7 @@ Team Management: Daily briefings to manage and delegate - with effective use of 
 Operations: Cash handling, POS systems, KPI reporting, awareness of training and company policies.
 <br>
 <br>
-**The LG Gallery, North Somerset** (2019 to 2012)  
+**The LG Gallery, North Somerset (2019 to 2012)**  
 **Gallery Assistant**
 <br>
 <br>
