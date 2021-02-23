@@ -24,9 +24,8 @@ During my time at Snyk, I helped to support the company's growth from 15 employe
 My role at Synk began in 2017 as a founding memeber of the People Team, supporting and establishing multiple responsiblites including, but not limited to: office management, financial reporting and Executive Assistant to the Founder/CEO.
 
 During the scaling of both the company and People Team, I focused my skills to be more systems based, by further establishing our HRIS and project leading the company's new employee onboarding workflows. This naturally lead to me, from 2019, leading People Operations where I owned employee data integrity, reporting and automation from within our HRIS; working closely with the legal, IT and engineering teams.
-  
-  
-  
+<br>
+<br>
 **Oliver Bonas, London** (July 2015 to Dec 2016)  
 **Supervisor/Assistant Manager**
 <br>
@@ -34,8 +33,8 @@ During the scaling of both the company and People Team, I focused my skills to b
 Sales: Understanding statistical information and KPIs
 Team Management: Daily briefings to manage and delegate - with effective use of stats and supporting personal development. Feedback reviews and code of conduct. Recruitment and training.
 Operations: Cash handling, POS systems, KPI reporting, awareness of training and company policies.
-
-
+<br>
+<br>
 **The LG Gallery, North Somerset** (2019 to 2012)  
 **Gallery Assistant**
 <br>
@@ -47,8 +46,8 @@ Multiple responsiblities and projects including:
 - Creation of The Art Sale project which encouraged the use of an empty gallery space between exhibitions and in turn creating profit towards the gallery’s budget and increased publicity
 - Re-design of the gallery logo and website
 - Front of House - liaising with visitors, artists, art collectors and maintaining new client base.
-
-
+<br>
+<br>
 ## Skills
 
 ~~Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.~~
