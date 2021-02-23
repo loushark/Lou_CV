@@ -8,7 +8,7 @@ TBC ~~A sentence about who and what you are. Then a sentence about what you've a
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| ~~TBC.                         | A webapp to do x. | React, Jest, etc. |~~
+| https://github.com/inbarvernia/rock-paper-scissors | Example of pairing with TDD | Ruby, TDD |~~
 | ~~TBC.                         | A webapp to do y. | Ruby              |~~
 
 ## Experience
