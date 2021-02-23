@@ -14,7 +14,8 @@ I am a creative type who loves a good puzzle
 ## Experience
 
 **Snyk.io, London** (Jan 2017 to May 2020)  
-**People Operations Lead**  
+**People Operations Lead**
+-
 (Snyk’s mission is to help developers use open source code and stay secure)
 
 During my time at Snyk, I helped to support the company's growth from 15 employees to over 300, across multiple global locations.
@@ -27,7 +28,7 @@ During the scaling of both the company and People Team, I focused my skills to b
   
 **Oliver Bonas, London** (July 2015 to Dec 2016)  
 **Supervisor/Assistant Manager**
-
+-
 Sales: Understanding statistical information and KPIs
 Team Management: Daily briefings to manage and delegate - with effective use of stats and supporting personal development. Feedback reviews and code of conduct. Recruitment and training.
 Operations: Cash handling, POS systems, KPI reporting, awareness of training and company policies.
@@ -35,7 +36,7 @@ Operations: Cash handling, POS systems, KPI reporting, awareness of training and
 
 **The LG Gallery, North Somerset** (2019 to 2012)  
 **Gallery Assistant**
-
+-
 Multiple responsiblities and projects including: 
 - Curation, sourcing of artists, preparing exhibitions
 - Creating and updating online social networks for the gallery
