@@ -8,7 +8,7 @@ I am a creative type who loves a good puzzle
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| https://github.com/inbarvernia/rock-paper-scissors | Example of pairing with TDD | Ruby, TDD |~~
+| https://github.com/inbarvernia/rock-paper-scissors | Example of pairing with TDD | Ruby, TDD, Rspec |~~
 | ~~TBC.                         | A webapp to do y. | Ruby              |~~
 
 ## Experience
